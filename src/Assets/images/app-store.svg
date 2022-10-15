@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
+  <g id="Group_42" data-name="Group 42" transform="translate(-1091 -3416)">
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="140" height="40" rx="6" transform="translate(1091 3416)" fill="#2d2d2d"/>
+    <text id="Download_on_The_App_Store" data-name="Download on The
+App Store" transform="translate(1128 3431)" fill="#fff" font-size="10" font-family="ProximaNovaA-Regular, Proxima Nova Alt"><tspan x="0" y="0">Download on The</tspan><tspan font-size="16" font-family="ProximaNovaA-Semibold, Proxima Nova Alt" font-weight="600"><tspan x="0" y="15">App Store</tspan></tspan></text>
+    <g id="MDI_apple" data-name="MDI / apple" transform="translate(1100.743 3424)" opacity="0.6">
+      <g id="Boundary" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+        <rect width="24" height="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+      </g>
+      <path id="Path_apple" data-name="Path / apple" d="M18.71,19.5c-.83,1.24-1.71,2.45-3.05,2.47s-1.77-.79-3.29-.79-2,.77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25,17,2.94,12.45,4.7,9.39A4.884,4.884,0,0,1,8.82,6.88c1.28-.02,2.5.87,3.29.87s2.26-1.07,3.81-.91a4.644,4.644,0,0,1,3.64,1.98,4.555,4.555,0,0,0-2.15,3.81,4.413,4.413,0,0,0,2.68,4.04,11.053,11.053,0,0,1-1.38,2.83M13,3.5A4.546,4.546,0,0,1,15.94,2,4.376,4.376,0,0,1,14.9,5.19a3.651,3.651,0,0,1-2.95,1.42A4.274,4.274,0,0,1,13,3.5Z" transform="translate(0.136)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

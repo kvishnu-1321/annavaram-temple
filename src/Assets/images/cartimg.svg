@@ -1,0 +1,7 @@
+<svg id="MDI_basket-outline" data-name="MDI / basket-outline" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Boundary" fill="#181818" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="21" height="21" stroke="none"/>
+    <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+  </g>
+  <path id="Path_basket-outline" data-name="Path / basket-outline" d="M19.375,8.125H15.184l-3.832-5.74A.885.885,0,0,0,10.625,2a.872.872,0,0,0-.726.394L6.066,8.125H1.875A.878.878,0,0,0,1,9a.556.556,0,0,0,.035.236l2.222,8.111a1.74,1.74,0,0,0,1.68,1.278H16.312A1.758,1.758,0,0,0,18,17.348l2.222-8.111L20.25,9a.878.878,0,0,0-.875-.875M10.625,4.45l2.45,3.675h-4.9l2.45-3.675m5.687,12.425H4.938l-1.916-7H18.237l-1.925,7m-5.687-5.25a1.75,1.75,0,1,0,1.75,1.75A1.755,1.755,0,0,0,10.625,11.625Z" transform="translate(-0.125 0.625)" fill="#181818"/>
+</svg>

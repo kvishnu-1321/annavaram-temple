@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="MDI_newspaper-variant-outline" data-name="MDI / newspaper-variant-outline" opacity="0.9">
+    <g id="Boundary" fill="#ecbd00" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_newspaper-variant-outline" data-name="Path / newspaper-variant-outline" d="M19.053,4.825V17.6H3.895V4.825H19.053m0-1.825H3.895A1.854,1.854,0,0,0,2,4.825V17.6a1.854,1.854,0,0,0,1.895,1.825H19.053A1.854,1.854,0,0,0,20.947,17.6V4.825A1.854,1.854,0,0,0,19.053,3M17.158,13.947H5.789v1.825H17.158V13.947m-7.579-7.3H5.789v5.474H9.579V6.649m1.895,1.825h5.684V6.649H11.474V8.474M17.158,10.3H11.474v1.825h5.684Z" transform="translate(0.526 0.789)" fill="#ffaf42"/>
+  </g>
+</svg>
